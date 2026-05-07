@@ -82,9 +82,9 @@ The tone: notice their engagement, ask a qualifying question, frame the paid pro
 
 > "Hey [name], saw you've worked through the first three modules, that's the foundations sorted.
 >
-> Quick question: are you closing already, or working towards it?
+> Quick question, are you closing already, or working towards it?
 >
-> Reason I ask: we run a separate placement programme that gets graduates of our paid training into interviews with vetted hiring partners (15% commission, 30-day guarantee). It's not for everyone, it's specifically for people who want to be working as a high-ticket closer for one of our partner companies.
+> Reason I ask, we run a separate placement programme that gets graduates of our paid training into interviews with vetted hiring partners (15% commission, 30-day guarantee). It's not for everyone, it's specifically for people who want to be working as a high-ticket closer for one of our partner companies.
 >
 > If that sounds like you, happy to set up a call with our team to walk you through it. If not, no worries, just keep working through the course."
 

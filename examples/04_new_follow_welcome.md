@@ -58,7 +58,7 @@
 >
 > The "inconsistent closing" thing is the most common pain I see 💡 most people think the issue is them, usually it's the lack of structure.
 >
-> Genuine question: are you closing already and trying to fix the swings, or trying to break in for the first time? 😊
+> Genuine question, are you closing already and trying to fix the swings, or trying to break in for the first time? 😊
 
 **Notes on what works:**
 

@@ -12,9 +12,9 @@ Use for educational, principle-based, or first-touch messages.
 > "Your inconsistent close rate isn't a talent problem. It's a training problem."
 
 ### 2. Quiet Authority Hook
-"After [credential / experience], here's what I know to be true:"
+"After [credential / experience], here's what I know to be true."
 
-> "After 37 years and $200M+ in personal sales, here's what I know to be true: most 'sales training' is theory wrapped in motivation."
+> "After 37 years and $200M+ in personal sales, here's what I know to be true. Most 'sales training' is theory wrapped in motivation."
 
 ### 3. Pattern Interrupt Hook
 "If you're [achievement marker] but still [struggle], it's not [assumed cause]."

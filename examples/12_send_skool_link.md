@@ -15,7 +15,7 @@
 
 ### Option
 
-> Here you go [name]:
+> Here you go [name] 👌
 >
 > https://community.systemiseandsell.com/join
 >
@@ -37,11 +37,11 @@
 
 ### Option
 
-> Here it is:
+> Here it is 🙂
 >
 > https://community.systemiseandsell.com/join
 >
-> Course is open in the Classroom, lives Mon to Fri at 7pm UK / 2pm EST / 11am PT. Take your time working through the foundations and post in the chat anytime, happy to answer questions as you go 🙂
+> Course is open in the Classroom, lives Mon to Fri at 7pm UK / 2pm EST / 11am PT. Take your time working through the foundations and post in the chat anytime, happy to answer questions as you go.
 
 **Notes on what works:**
 

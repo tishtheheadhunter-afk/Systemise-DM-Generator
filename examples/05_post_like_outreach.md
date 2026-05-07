@@ -19,7 +19,7 @@
 >
 > Quick question, are you in the inconsistent closing camp yourself, or is it more theoretical for you? 🎯
 >
-> Reason I ask: I work with both, but the conversation looks different depending on which one. Wanted to know which lens to come from before I sent anything 😊
+> Reason I ask, I work with both, but the conversation looks different depending on which one. Wanted to know which lens to come from before I sent anything 😊
 
 ### Option B (Lead with insight)
 
@@ -56,7 +56,7 @@
 
 > Hey [name] 👋
 >
-> Saw you liked the $200M post. Quick question: are you in sales already, or thinking about getting into it?
+> Saw you liked the $200M post. Quick question, are you in sales already, or thinking about getting into it?
 >
 > Different conversation depending on the answer, wanted to ask before sending anything generic 😊
 

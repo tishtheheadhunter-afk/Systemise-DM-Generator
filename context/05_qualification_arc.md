@@ -46,7 +46,7 @@ Feed back their goals. Position the call as a deeper conversation with the team,
 Once they say yes, deliver the link cleanly.
 
 **Shape:**
-> "Great, here's the link: https://api.leadconnectorhq.com/widget/bookings/systemiseandselldiscoverycall
+> "Great, here you go, https://api.leadconnectorhq.com/widget/bookings/systemiseandselldiscoverycall
 >
 > Drop me a note when you've booked so I can confirm it on our side."
 

@@ -19,7 +19,7 @@
 
 > Hey [name], saw you liked the post on closing being a learnable skill 👋
 >
-> Quick question: are you looking at high-ticket closing for yourself, or curious from a different angle? 🎯
+> Quick question, are you looking at high-ticket closing for yourself, or curious from a different angle? 🎯
 >
 > Reason I ask, I run the training side of Systemise and Sell, and most people who like that post fall into one of two camps. Trying to break in, or already closing and trying to get more consistent. Wanted to see which one's you before I sent anything 😊
 
@@ -59,7 +59,7 @@
 >
 > Quick question, are you looking to stay in tech B2B or is the long-term goal to move into something where the OTE isn't capped by base + variable structure? 🎯
 >
-> Reason I ask: a lot of the closers we train come from BDR/SDR backgrounds and want the move to high-ticket commission-only where the upside is real. Wanted to see if that's where your head's at before I send anything 😊
+> Reason I ask, a lot of the closers we train come from BDR/SDR backgrounds and want the move to high-ticket commission-only where the upside is real. Wanted to see if that's where your head's at before I send anything 😊
 
 ### Option B (Career escape framing)
 

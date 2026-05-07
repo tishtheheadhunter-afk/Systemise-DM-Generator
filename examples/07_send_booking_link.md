@@ -15,7 +15,7 @@
 
 ### Option
 
-> Great, here's the link:
+> Great, here you go 👌
 >
 > https://api.leadconnectorhq.com/widget/bookings/systemiseandselldiscoverycall
 >
@@ -37,7 +37,7 @@
 
 ### Option
 
-> No problem, here's the link:
+> No problem, here you go 🙂
 >
 > https://api.leadconnectorhq.com/widget/bookings/systemiseandselldiscoverycall
 >

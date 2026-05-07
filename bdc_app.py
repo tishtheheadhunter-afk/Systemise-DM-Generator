@@ -203,7 +203,7 @@ Generate {options_count} option(s). Format your response as a JSON array. Each o
 Return ONLY the JSON array, no markdown fences, no preamble.
 
 CRITICAL RULES:
-1. NEVER use em dashes. Use commas, full stops, colons. Hyphens only inside compound words.
+1. NEVER use em dashes. Use commas or full stops. Hyphens only inside compound words.
 2. NEVER discuss pricing in DMs. Redirect to the call.
 3. NEVER say "guaranteed placement". Always "guaranteed interview opportunities".
 4. NEVER conflate Marco Fernandes with Sir Marco Robinson. We are Marco Fernandes, the high-ticket closer trainer. Sir Marco Robinson is a different person running a different (book) offer.
@@ -211,6 +211,11 @@ CRITICAL RULES:
 6. Personalise to what the prospect actually said. Generic responses fail.
 7. Match the worked examples in tone, length, and structure.
 8. Always use a blank line between paragraphs, INCLUDING between the greeting and the body. Output `\\n\\n` between paragraphs in the JSON "text" field. Greeting on the first line, blank line, then the next paragraph. Never glue the greeting to the body with a single line break.
+9. NEVER use a colon (:) to introduce a phrase, sentence, or paragraph. Patterns like "Quick rundown:", "Quick context:", "What's actually inside:", "A bit about me:", "Honest take:", "Quick question:", "Quick thought:", "Reason I ask:", "Honest answer:", "The difference here is structural:", "One thing worth knowing:", "Two things that distinguish X:" are ALL FORBIDDEN. They sound formal, corporate, brochure-like. Replace with one of:
+   a. A comma, "Quick rundown, this is..." (instead of "Quick rundown:")
+   b. A full stop and a fresh sentence, "About me. 37 years in sales..." (instead of "A bit about me:")
+   c. Drop the lead-in entirely and lead with the content, "37 years in sales here, started door to door..." (instead of "Quick context on me:")
+   The ONLY colon usage that is still allowed is inside URLs (https://...) and times (7:30pm). No colons leading paragraphs, labels, or questions.
 """
     
     return prompt
@@ -303,6 +308,33 @@ def strip_em_dashes(text: str) -> str:
     return text
 
 
+_GREETING_STARTS = (
+    "hey", "hi ", "hi,", "hi.", "hello",
+    "thanks", "thank you", "good morning", "good afternoon", "good evening",
+    "got it", "fair enough", "no worries", "of course",
+    "morning", "evening", "afternoon",
+    "sure", "yeah", "yep",
+)
+_GREETING_TAIL_EMOJIS = (
+    "👋", "🙂", "😊", "🙋", "🤝", "✨",
+)
+
+
+def _looks_like_greeting(line: str) -> bool:
+    """Heuristic: is this line a short opening salutation that should sit
+    on its own with a blank line below it?"""
+    s = line.strip()
+    if not s or len(s) >= 100:
+        return False
+    lowered = s.lower()
+    if any(lowered.startswith(p) for p in _GREETING_STARTS):
+        return True
+    # Or ends with a greeting emoji (covers cases like "Hey [name] 👋")
+    if any(s.endswith(e) for e in _GREETING_TAIL_EMOJIS):
+        return True
+    return False
+
+
 def normalize_message_spacing(text: str) -> str:
     """Fix paragraph spacing in generated messages.
 
@@ -322,13 +354,21 @@ def normalize_message_spacing(text: str) -> str:
     # Collapse 3+ consecutive newlines to exactly 2
     text = re.sub(r"\n{3,}", "\n\n", text)
 
-    # If the first line is short (likely a greeting) and the second line is
-    # non-empty (no blank line between them), insert a blank line.
     lines = text.split("\n")
-    if len(lines) >= 2:
-        first = lines[0]
-        if len(first.strip()) < 80 and lines[1].strip() != "":
-            text = first + "\n\n" + "\n".join(lines[1:]).lstrip("\n")
+    if len(lines) < 2:
+        return text
+
+    first = lines[0]
+    second = lines[1]
+
+    # Already a blank line between paragraphs? Done.
+    if second.strip() == "":
+        return text
+
+    # Insert blank line if first line is a recognised greeting OR
+    # is just short (< 80 chars), defensive double-check.
+    if _looks_like_greeting(first) or len(first.strip()) < 80:
+        text = first + "\n\n" + "\n".join(lines[1:]).lstrip("\n")
 
     return text
 

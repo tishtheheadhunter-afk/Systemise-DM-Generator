@@ -19,11 +19,11 @@
 
 > Thanks for reaching out [name] 👋
 >
-> Quick rundown: High-Ticket Closer Mastery is the 16-module programme I run for people who want to become professional remote closers and actually get placed on real campaigns, not stuck in the "I've done courses but never closed a deal" loop.
+> So High-Ticket Closer Mastery is the 16-module programme I run for people who want to become professional remote closers and actually get placed on real campaigns, not stuck in the "I've done courses but never closed a deal" loop.
 >
-> What's actually inside: weekly live training with me (not pre-recorded), real call breakdowns from active campaigns, roleplays where we tear apart what worked and what didn't, the full qualification arc, objection handling, and the closing patterns we use day in and day out. On certification, you get guaranteed interview opportunities with vetted hiring partners, that's the access piece most programmes don't have ✅
+> Inside, you get weekly live training with me (not pre-recorded), real call breakdowns from active campaigns, roleplays where we tear apart what worked and what didn't, the full qualification arc, objection handling, and the closing patterns we use day in and day out. On certification, you get guaranteed interview opportunities with vetted hiring partners, that's the access piece most programmes don't have ✅
 >
-> Quick context on me: 37 years in sales, started door to door, personally closed over $200M, built teams that did $100M in 12 months. Everything I teach has been pressure tested on real campaigns, not borrowed from someone else's slides.
+> About me. 37 years in sales, started door to door, personally closed over $200M, built teams that did $100M in 12 months. Everything I teach has been pressure tested on real campaigns, not borrowed from someone else's slides.
 >
 > The people who get the most out of this are coachable, willing to do the reps, and treat sales as a profession not a side hustle. Not for everyone, and that's the point 🎯
 >
@@ -33,9 +33,9 @@
 
 > Hey [name], thanks for reaching out 🙂
 >
-> Quick context: High-Ticket Closer Mastery is the 16-module programme I run for people who want to become professional remote closers. Weekly live training with me, real roleplay sessions, real call breakdowns from active campaigns, plus guaranteed interview opportunities with vetted hiring partners once you certify 💬
+> So High-Ticket Closer Mastery is the 16-module programme I run for people who want to become professional remote closers. Weekly live training with me, real roleplay sessions, real call breakdowns from active campaigns, plus guaranteed interview opportunities with vetted hiring partners once you certify 💬
 >
-> A bit about me: 37 years in sales, $200M+ personally closed, built teams that did $100M in 12 months. The whole programme is built off what's actually working on real campaigns right now.
+> About me. 37 years in sales, $200M+ personally closed, built teams that did $100M in 12 months. The whole programme is built off what's actually working on real campaigns right now.
 >
 > Before I tell you more about the structure, I'd rather understand what you're looking for. Mind if I ask a couple of questions first to make sure it's actually a fit? 😊
 
@@ -67,7 +67,7 @@
 
 > Thanks for reaching out [name], and good to hear you've been following along 👋
 >
-> Short answer: yes, we work with a lot of coaches and consultants who are great at delivery but freeze up on the sales side. The programme covers the full high-ticket sales cycle, discovery, problem amplification without manipulation, presenting, money objections, all of it ✅
+> Short answer, yes. We work with a lot of coaches and consultants who are great at delivery but freeze up on the sales side. The programme covers the full high-ticket sales cycle, discovery, problem amplification without manipulation, presenting, money objections, all of it ✅
 >
 > Before I send you the full breakdown, mind if I ask a couple of questions about your offer and where you're getting stuck on calls? That way I can tell you specifically how the programme would apply 😊
 
@@ -115,13 +115,13 @@
 >
 > High-Ticket Closer Mastery, 16-module programme to become a professional remote high-ticket closer. Weekly live training with me. Roleplays. Call breakdowns. Guaranteed interview opportunities once you finish ✅
 >
-> Before I send the full breakdown, mind if I ask: where are you at right now with sales? Closing already, working towards it, or completely fresh? 😊
+> Before I send the full breakdown, mind if I ask, where are you at right now with sales? Closing already, working towards it, or completely fresh? 😊
 
 ### Option B (Slightly warmer)
 
 > Hey [name], no problem 🙂
 >
-> Quick rundown: it's a 16-module high-ticket closer training programme, weekly live with me, real call breakdowns, guaranteed interview opportunities at the end 💬
+> So it's a 16-module high-ticket closer training programme, weekly live with me, real call breakdowns, guaranteed interview opportunities at the end 💬
 >
 > Before I send you more, I'd rather understand what you're looking for. Are you trying to break into closing, or already doing it and want to level up?
 

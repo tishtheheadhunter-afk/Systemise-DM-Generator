@@ -28,9 +28,9 @@ This is the heaviest-lifting response type in the whole bot. Get it right and we
 
 > Totally hear you [name]. Don't want to push you into something the timing's wrong on 🙂
 >
-> One thing worth knowing: we run a free community called The Closing Room. Same first two-thirds of the training, daily live sessions with me Mon-Fri, no charge, no upsell inside. People use it to audition the methodology before any paid commitment.
+> One thing worth knowing, we run a free community called The Closing Room. Same first two-thirds of the training, daily live sessions with me Mon-Fri, no charge, no upsell inside. People use it to audition the methodology before any paid commitment.
 >
-> If you want the link, here it is: https://community.systemiseandsell.com/join
+> If you want the link, here it is, https://community.systemiseandsell.com/join
 >
 > If not, all good, door's always open down the line.
 
@@ -40,7 +40,7 @@ This is the heaviest-lifting response type in the whole bot. Get it right and we
 >
 > While you're saving up, you could come into our free community, The Closing Room. Daily lives with me, the actual training course (free), and you can take your time working through the foundations before any paid step. Most people spend 30-60 days in there before they're ready for a call.
 >
-> If you want in: https://community.systemiseandsell.com/join
+> If you want in, https://community.systemiseandsell.com/join
 >
 > No pressure either way. If the few months turn into the right time, you'll know where to find me.
 
@@ -50,7 +50,7 @@ This is the heaviest-lifting response type in the whole bot. Get it right and we
 >
 > If you want to start now without spending anything, we have a free Skool community where the course content is open and I run daily lives Mon to Fri. No upsell inside, no pressure to upgrade, you can take your time and decide later.
 >
-> Link if useful: https://community.systemiseandsell.com/join
+> Link if useful, https://community.systemiseandsell.com/join
 >
 > Either way, when you're ready, hit me back.
 
@@ -77,7 +77,7 @@ This is the heaviest-lifting response type in the whole bot. Get it right and we
 >
 > Honestly, given where you're at, the right move probably isn't a paid programme right now. We have a free community, The Closing Room, with the full course content, daily lives with me Mon to Fri, no charge, no upsell. You could use the next few weeks to actually skill up while you figure things out.
 >
-> Link if you want it: https://community.systemiseandsell.com/join
+> Link if you want it, https://community.systemiseandsell.com/join
 >
 > Hope things settle for you soon. Either way, when you're ready, you know where to find me.
 
@@ -85,7 +85,7 @@ This is the heaviest-lifting response type in the whole bot. Get it right and we
 
 > Tough timing [name], sorry to hear it 🙏
 >
-> Practical thought: while you're sorting things out, the free community might actually be the most useful thing for you right now. Same training course free inside, daily lives with me, full Hiring Partners reference. You'd be skilling up so when the timing is right, you're not starting from zero.
+> Practical thought, while you're sorting things out, the free community might actually be the most useful thing for you right now. Same training course free inside, daily lives with me, full Hiring Partners reference. You'd be skilling up so when the timing is right, you're not starting from zero.
 >
 > https://community.systemiseandsell.com/join
 >
@@ -122,7 +122,7 @@ This is the heaviest-lifting response type in the whole bot. Get it right and we
 >
 > While you're saving, come into the free community, The Closing Room. Same course content open, daily lives with me, full Hiring Partners reference inside. The people who do best in our paid programme are usually the ones who came through the free community first and arrived with the foundations already solid.
 >
-> Link: https://community.systemiseandsell.com/join
+> Here's the link, https://community.systemiseandsell.com/join
 >
 > Take your time. When you're ready for the next step, you'll know where to find me.
 
@@ -130,7 +130,7 @@ This is the heaviest-lifting response type in the whole bot. Get it right and we
 
 > Respect that [name] 🙂
 >
-> One thing to consider: the saving period is a great time to actually build the skill, not just save the money. The free community has the full course and daily lives, no charge. By the time you're ready to invest, you'd already be ahead of where most people start.
+> One thing to consider, the saving period is a great time to actually build the skill, not just save the money. The free community has the full course and daily lives, no charge. By the time you're ready to invest, you'd already be ahead of where most people start.
 >
 > https://community.systemiseandsell.com/join
 >
