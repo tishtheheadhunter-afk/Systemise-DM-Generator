@@ -540,8 +540,8 @@ def page_threads():
                         thread_id = f"t_{uuid.uuid4().hex[:12]}"
                         save_thread(thread_id, new_name.strip(), new_context.strip(), [])
                         st.session_state["show_new_form"] = False
-                        st.session_state["new_thread_name"] = ""
-                        st.session_state["new_thread_context"] = ""
+                        st.session_state.pop("new_thread_name", None)
+                        st.session_state.pop("new_thread_context", None)
                         st.rerun()
             with cols[1]:
                 if st.button("Cancel", use_container_width=True):
@@ -637,7 +637,7 @@ def page_threads():
             save_thread(active_thread_id, thread["name"], thread.get("context", ""), messages)
             # Clear results and pending msg
             st.session_state[results_key] = None
-            st.session_state[f"thread_msg_{active_thread_id}"] = ""
+            st.session_state.pop(f"thread_msg_{active_thread_id}", None)
             st.rerun()
         
         render_results(st.session_state[results_key], key_prefix=f"thread_{active_thread_id}", on_use_callback=use_option)
