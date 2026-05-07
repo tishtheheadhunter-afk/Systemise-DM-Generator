@@ -213,8 +213,8 @@ CRITICAL RULES:
 8. Always use a blank line between paragraphs, INCLUDING between the greeting and the body. Output `\\n\\n` between paragraphs in the JSON "text" field. Greeting on the first line, blank line, then the next paragraph. Never glue the greeting to the body with a single line break.
 9. NEVER use a colon (:) to introduce a phrase, sentence, or paragraph. Patterns like "Quick rundown:", "Quick context:", "What's actually inside:", "A bit about me:", "Honest take:", "Quick question:", "Quick thought:", "Reason I ask:", "Honest answer:", "The difference here is structural:", "One thing worth knowing:", "Two things that distinguish X:" are ALL FORBIDDEN. They sound formal, corporate, brochure-like. Replace with one of:
    a. A comma, "Quick rundown, this is..." (instead of "Quick rundown:")
-   b. A full stop and a fresh sentence, "About me. 37 years in sales..." (instead of "A bit about me:")
-   c. Drop the lead-in entirely and lead with the content, "37 years in sales here, started door to door..." (instead of "Quick context on me:")
+   b. A full stop and a fresh sentence, "About me. 39 years in sales..." (instead of "A bit about me:")
+   c. Drop the lead-in entirely and lead with the content, "39 years in sales here, started door to door..." (instead of "Quick context on me:")
    The ONLY colon usage that is still allowed is inside URLs (https://...) and times (7:30pm). No colons leading paragraphs, labels, or questions.
 """
     

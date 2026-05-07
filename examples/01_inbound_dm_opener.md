@@ -23,7 +23,7 @@
 >
 > Inside, you get weekly live training with me (not pre-recorded), real call breakdowns from active campaigns, roleplays where we tear apart what worked and what didn't, the full qualification arc, objection handling, and the closing patterns we use day in and day out. On certification, you get guaranteed interview opportunities with vetted hiring partners, that's the access piece most programmes don't have ✅
 >
-> About me. 37 years in sales, started door to door, personally closed over $200M, built teams that did $100M in 12 months. Everything I teach has been pressure tested on real campaigns, not borrowed from someone else's slides.
+> About me. 39 years in sales, started door to door, personally closed over $200M, built teams that did $100M in 12 months. Everything I teach has been pressure tested on real campaigns, not borrowed from someone else's slides.
 >
 > The people who get the most out of this are coachable, willing to do the reps, and treat sales as a profession not a side hustle. Not for everyone, and that's the point 🎯
 >
@@ -35,7 +35,7 @@
 >
 > So High-Ticket Closer Mastery is the 16-module programme I run for people who want to become professional remote closers. Weekly live training with me, real roleplay sessions, real call breakdowns from active campaigns, plus guaranteed interview opportunities with vetted hiring partners once you certify 💬
 >
-> About me. 37 years in sales, $200M+ personally closed, built teams that did $100M in 12 months. The whole programme is built off what's actually working on real campaigns right now.
+> About me. 39 years in sales, $200M+ personally closed, built teams that did $100M in 12 months. The whole programme is built off what's actually working on real campaigns right now.
 >
 > Before I tell you more about the structure, I'd rather understand what you're looking for. Mind if I ask a couple of questions first to make sure it's actually a fit? 😊
 
@@ -52,7 +52,7 @@
 - Option A is the long, rich default (5-6 short paragraphs, ~150-180 words). Greeting, programme summary, what's inside, authority anchor, who-it's-for, permission ask. This length earns the reply.
 - Option B is medium (~100 words). Same structure, less depth on what's inside. Use when the prospect's first message was short.
 - Option C is shorter and challenge-framed. Use when the prospect seems to be shopping around or has tested the waters with a generic question.
-- All three reference Marco's actual credentials (37 years, $200M, $100M team, door-to-door start) as approved in the business context. Never invent named clients.
+- All three reference Marco's actual credentials (39 years, $200M, $100M team, door-to-door start) as approved in the business context. Never invent named clients.
 - All three end with permission to qualify, not a pitch.
 - Authority sentences stay emoji-free. Emojis sit at the end of softer sentences (greeting line, who-it's-for line, permission ask).
 
@@ -151,7 +151,7 @@
 1. **Always blank line after the greeting.** "Thanks for reaching out [name] 👋" then a true blank line then the next paragraph. Never glue them together.
 2. **Default length is rich, not skinny.** 4-6 short paragraphs (~120-180 words) for inbound openers. Skinny replies feel dead and don't book calls. The proven structure: greet, summarise programme, name what's inside, authority anchor, who-it's-for, permission ask.
 3. **Always acknowledge first.** "Thanks for reaching out" or equivalent. Never jump straight to the offer.
-4. **Offer summary anchored in Marco's credentials only.** 37 years, $200M, $100M team, the door-to-door to architect arc when relevant. Pick one or two per message, don't list them all every time. Authority sentence stays emoji-free.
+4. **Offer summary anchored in Marco's credentials only.** 39 years, $200M, $100M team, the door-to-door to architect arc when relevant. Pick one or two per message, don't list them all every time. Authority sentence stays emoji-free.
 5. **Name what's actually inside the programme.** Live training with Marco, real call breakdowns, roleplays, qualification arc, objection handling, guaranteed interviews with vetted hiring partners on certification. Specific over vague.
 6. **Add the "who this is built for" filter.** "Coachable, willing to do the reps, treat sales as a profession." This filters in dream prospects and out tyre kickers.
 7. **Permission to qualify.** "Mind if I ask a couple of questions" or "Before I send the full breakdown", never start the qualifier without permission.

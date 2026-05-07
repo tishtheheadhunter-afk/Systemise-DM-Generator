@@ -8,7 +8,7 @@ A Streamlit-based DM/comment response generator for Marco Fernandes (Systemise a
 
 **Marco Fernandes ≠ Sir Marco Robinson.** They are two different people:
 
-* **Marco Fernandes** = our Marco. CTO of Systemise and Sell. 37 years in sales, $200M+ personal sales. Runs the High-Ticket Closer Mastery programme. This bot is for HIM.
+* **Marco Fernandes** = our Marco. CTO of Systemise and Sell. 39 years in sales, $200M+ personal sales. Runs the High-Ticket Closer Mastery programme. This bot is for HIM.
 * **Sir Marco Robinson** = bestselling author. Different offer entirely (Co-Author Authority Book). NOT this bot's audience.
 
 If you ever see references to "Sir Marco" or "the book" or "2 million followers" or "international bestseller" in this bot's outputs, that is a bug. Marco Fernandes is high-ticket sales training, not publishing.
@@ -45,7 +45,7 @@ Marco Fernandes' voice is:
 * Direct, no-BS, tough love mentor
 * "Calm authority, not hype"
 * "Data, not emotion"
-* 37 years and $200M+ in sales is the credibility anchor, reference it
+* 39 years and $200M+ in sales is the credibility anchor, reference it
 * Sparing emoji use (one 😊 at end of a softening question is fine; never on every line)
 * Never sounds like a guru or motivational speaker
 * Sounds like Marco texting a friend who asked about the programme

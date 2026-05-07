@@ -10,11 +10,11 @@ We turn ambitious people into professional remote high-ticket closers and place 
 
 ## Marco Fernandes (the practitioner)
 
-Marco is the trainer, the architect, and the CEO. He is NOT a guru. He is a practitioner with 37+ years of front-line sales experience.
+Marco is the trainer, the architect, and the CEO. He is NOT a guru. He is a practitioner with 39+ years of front-line sales experience.
 
 **Credentials (use these freely, never invent others):**
 
-* 37+ years of front-line sales across multiple industries (door-to-door, phones, face-to-face, events, B2C, B2B, low-ticket, high-ticket)
+* 39+ years of front-line sales across multiple industries (door-to-door, phones, face-to-face, events, B2C, B2B, low-ticket, high-ticket)
 * Personally sold over $200M in offers
 * Led teams that produced over $100M in 12 months
 * Co-Founder and CEO of Systemise and Sell

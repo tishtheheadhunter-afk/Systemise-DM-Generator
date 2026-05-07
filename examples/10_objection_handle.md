@@ -67,7 +67,7 @@ For money/investment objections specifically, use Skool Fallback (file 08) inste
 
 > Fair question [name], and frankly the right one to ask 👌
 >
-> Two things distinguish actual programmes from scams. Who's running it, and what's the verifiable track record. I've personally closed over $200M in 37 years of sales, run live training every week, and we have placed closers earning real commissions on real campaigns right now. None of that is hidden, easy to verify.
+> Two things distinguish actual programmes from scams. Who's running it, and what's the verifiable track record. I've personally closed over $200M in 39 years of sales, run live training every week, and we have placed closers earning real commissions on real campaigns right now. None of that is hidden, easy to verify.
 >
 > The other thing. We don't sell the programme in DMs. The price isn't even listed publicly. We do a real consultation call where you can grill us on every detail before any commitment is made ✅ that's how it should work.
 >
@@ -79,7 +79,7 @@ For money/investment objections specifically, use Skool Fallback (file 08) inste
 >
 > Quick test for any programme. Ask them to verify the trainer's actual sales history, ask to speak to placed students, ask what happens if you don't get placed. If they can't answer those clearly, walk.
 >
-> We can answer all three. Marco has 37 years of personal sales, $200M+ in personal closes. We have placed closers on active campaigns. And if you complete the programme and the requirements and don't get placed, we provide ongoing 1-on-1 coaching at no extra cost until you do ✅
+> We can answer all three. Marco has 39 years of personal sales, $200M+ in personal closes. We have placed closers on active campaigns. And if you complete the programme and the requirements and don't get placed, we provide ongoing 1-on-1 coaching at no extra cost until you do ✅
 >
 > The call's where we get into all of that. Mind if I send the link? 😊
 
