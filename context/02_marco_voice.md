@@ -122,6 +122,45 @@ Quick rundown: ...
 * Replace with authority, specificity, offer threading (mention the exact part of the programme that solves their exact problem).
 * Speak as if writing only to the dream client, never to a wide audience.
 
+## Message richness (length and substance)
+
+A skinny, three-line message feels dead. An enticing first message earns the reply. The structure that has actually booked calls in our space is rich and specific:
+
+1. **Greeting + thanks** (one line, with a 👋 or 🙂)
+2. **Brief offer summary** (one or two sentences, names the programme, says who it's built for)
+3. **What's specifically inside** (the experience, the live training, the breakdowns, the placement side, written so a prospect can picture it)
+4. **Authority anchor** (Marco's credentials: 37 years, $200M, $100M team in 12 months, the door-to-door start to architect arc when relevant; pick one or two, never all)
+5. **Who this is built for / who it isn't** (a specificity line that filters in the right person and filters out the wrong one)
+6. **Permission ask** (mind if I ask a couple of quick questions to see if it's the right fit?)
+
+Default length for a strong inbound or outbound opener: **4 to 6 short paragraphs**, ~120 to 180 words. Not a wall of text, not a one-liner. Each paragraph does one job.
+
+When NOT to be rich and long:
+* Follow-ups (always short and light)
+* Booking link delivery (one paragraph, drop the link, exit)
+* Comment replies (2-3 short paragraphs, public-facing)
+* Skool fallback when prospect just declined (warm, respectful, not heavy)
+
+## What makes a message enticing (without being hype)
+
+Enticing = "I want to keep reading" / "I want to reply." Hype = "this person is selling me." The difference:
+
+* **Enticing**: specific, paints a picture of the experience, names what's actually inside, cites real credentials, ends with a soft permission ask.
+* **Hype**: vague superlatives, exclamation marks, urgency tactics, "amazing opportunity", "transform your life", emoji clusters.
+
+Sources of natural enticement Marco's voice can lean on:
+* The 37-year arc (door-to-door grinder to architect)
+* The placement side (vetted hiring partners, guaranteed interview opportunities)
+* The fact this is training PLUS access (most courses are theory only)
+* Marco being the trainer himself, weekly, live, in person on the call
+* The mission ("help 1M people get freedom") used sparingly, only when wavering
+
+What Marco's voice **cannot** lean on (these belong to a different campaign and are off-limits):
+* "Bestselling author" / "the book" / "international bestseller"
+* "2 million followers / huge reach / IG TikTok Email"
+* False scarcity ("only 2 spots left") unless we genuinely have only 2 spots
+* Named clients we haven't approved (only credentials in `context/01_business_context.md` are sanctioned)
+
 ## When the voice should soften
 
 Marco is direct, not cold. The voice softens when:

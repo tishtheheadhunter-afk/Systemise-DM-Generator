@@ -15,40 +15,46 @@
 **Setter input:**
 > Prospect just DM'd: "Hey, saw your stuff on TikTok. Tell me more about the closer programme?"
 
-### Option A (Direct, Authority-led)
+### Option A (Direct, Authority-led, full picture)
 
 > Thanks for reaching out [name] 👋
 >
-> Quick rundown: this is High-Ticket Closer Mastery, the 16-module programme I run. Weekly live training with me, real call breakdowns, roleplays, plus guaranteed interview opportunities with vetted hiring partners once you certify ✅
+> Quick rundown: High-Ticket Closer Mastery is the 16-module programme I run for people who want to become professional remote closers and actually get placed on real campaigns, not stuck in the "I've done courses but never closed a deal" loop.
 >
-> 37 years in sales, personally closed over $200M, built teams that did $100M in 12 months. Everything I teach has been tested on real campaigns, not in a classroom.
+> What's actually inside: weekly live training with me (not pre-recorded), real call breakdowns from active campaigns, roleplays where we tear apart what worked and what didn't, the full qualification arc, objection handling, and the closing patterns we use day in and day out. On certification, you get guaranteed interview opportunities with vetted hiring partners, that's the access piece most programmes don't have ✅
 >
-> If that's the kind of thing you're looking at, mind if I ask a couple of quick questions to see if it's the right fit? 😊
+> Quick context on me: 37 years in sales, started door to door, personally closed over $200M, built teams that did $100M in 12 months. Everything I teach has been pressure tested on real campaigns, not borrowed from someone else's slides.
+>
+> The people who get the most out of this are coachable, willing to do the reps, and treat sales as a profession not a side hustle. Not for everyone, and that's the point 🎯
+>
+> If that sounds like you, mind if I ask a couple of quick questions to make sure it's actually the right fit before I send any more detail? 😊
 
-### Option B (Warmer, Permission-led)
+### Option B (Warmer, permission-led, medium length)
 
 > Hey [name], thanks for reaching out 🙂
 >
-> Quick context: High-Ticket Closer Mastery is the 16-module programme I run for people who want to become professional remote closers. Weekly live training with me, real roleplay sessions, call breakdowns, and guaranteed interview opportunities once you certify 💬
+> Quick context: High-Ticket Closer Mastery is the 16-module programme I run for people who want to become professional remote closers. Weekly live training with me, real roleplay sessions, real call breakdowns from active campaigns, plus guaranteed interview opportunities with vetted hiring partners once you certify 💬
 >
-> Before I tell you more, I'd rather understand what you're looking for. Mind if I ask a couple of questions first to make sure it's actually a fit?
+> A bit about me: 37 years in sales, $200M+ personally closed, built teams that did $100M in 12 months. The whole programme is built off what's actually working on real campaigns right now.
+>
+> Before I tell you more about the structure, I'd rather understand what you're looking for. Mind if I ask a couple of questions first to make sure it's actually a fit? 😊
 
-### Option C (Challenge-framed)
+### Option C (Challenge-framed, shorter for sharper prospects)
 
 > Thanks for reaching out [name] 👋
 >
-> Before I get into what's in the programme, I'd rather make sure it's the right fit for you. High-Ticket Closer Mastery isn't for everyone, it's for people serious about treating sales as a profession, not a side hustle 🎯
+> Before I get into what's in the programme, I'd rather make sure it's the right fit for you. High-Ticket Closer Mastery isn't for everyone, it's for people serious about treating sales as a profession, not a side hustle 🎯 we work with people who'll do the reps, not people looking for shortcuts.
 >
 > If you're up for it, mind if I ask a few quick questions about where you're at? That'll tell me whether to send you the full breakdown or save us both time 😊
 
 **Notes on what works:**
 
-- All three open with "Thanks for reaching out" + a single greeting emoji, direct acknowledgement, no fake enthusiasm
-- All three reference Marco's credentials specifically (37 years, $200M, $100M team), the credibility anchor. The authority sentence stays clean of emoji, the lighter sentences carry them
-- All three end with permission to qualify, not a pitch
-- Option A is the default, most prospects respond well to direct authority + permission
-- Option B uses softer emojis (🙂 💬) for warmer prospects (newer to sales, more nervous)
-- Option C frames disqualification first ("isn't for everyone"), works for prospects who seem cocky or shopping around
+- Option A is the long, rich default (5-6 short paragraphs, ~150-180 words). Greeting, programme summary, what's inside, authority anchor, who-it's-for, permission ask. This length earns the reply.
+- Option B is medium (~100 words). Same structure, less depth on what's inside. Use when the prospect's first message was short.
+- Option C is shorter and challenge-framed. Use when the prospect seems to be shopping around or has tested the waters with a generic question.
+- All three reference Marco's actual credentials (37 years, $200M, $100M team, door-to-door start) as approved in the business context. Never invent named clients.
+- All three end with permission to qualify, not a pitch.
+- Authority sentences stay emoji-free. Emojis sit at the end of softer sentences (greeting line, who-it's-for line, permission ask).
 
 ---
 
@@ -143,20 +149,25 @@
 ## Common patterns to notice
 
 1. **Always blank line after the greeting.** "Thanks for reaching out [name] 👋" then a true blank line then the next paragraph. Never glue them together.
-2. **Always acknowledge first.** "Thanks for reaching out" or equivalent. Never jump straight to the offer.
-3. **Brief offer summary anchored in Marco's credentials.** 37 years, $200M, $100M team, pick one or two, don't list them all every time. Authority sentence stays emoji-free.
-4. **Permission to qualify.** "Mind if I ask a couple of questions" or "Before I send the full breakdown", never start the qualifier without permission.
-5. **End with the qualifier or the permission ask.** Never end with a pitch.
-6. **Personalise to what they said.** A coach gets a coach-relevant response. A 9-to-5 escapee gets a 9-to-5-relevant response. Generic responses lose them.
-7. **1-3 emojis per message, placed at the end of sentences/paragraphs.** Never at the start. Never stacked. Never on the authority sentence.
+2. **Default length is rich, not skinny.** 4-6 short paragraphs (~120-180 words) for inbound openers. Skinny replies feel dead and don't book calls. The proven structure: greet, summarise programme, name what's inside, authority anchor, who-it's-for, permission ask.
+3. **Always acknowledge first.** "Thanks for reaching out" or equivalent. Never jump straight to the offer.
+4. **Offer summary anchored in Marco's credentials only.** 37 years, $200M, $100M team, the door-to-door to architect arc when relevant. Pick one or two per message, don't list them all every time. Authority sentence stays emoji-free.
+5. **Name what's actually inside the programme.** Live training with Marco, real call breakdowns, roleplays, qualification arc, objection handling, guaranteed interviews with vetted hiring partners on certification. Specific over vague.
+6. **Add the "who this is built for" filter.** "Coachable, willing to do the reps, treat sales as a profession." This filters in dream prospects and out tyre kickers.
+7. **Permission to qualify.** "Mind if I ask a couple of questions" or "Before I send the full breakdown", never start the qualifier without permission.
+8. **End with the qualifier or the permission ask.** Never end with a pitch.
+9. **Personalise to what they said.** A coach gets a coach-relevant response. A 9-to-5 escapee gets a 9-to-5-relevant response. Generic responses lose them.
+10. **1-3 emojis per message, placed at the end of sentences/paragraphs.** Never at the start. Never stacked. Never on the authority sentence.
 
 ## What to avoid
 
-- Long offer dumps before any qualification
+- Skinny three-line replies (dead, don't earn a reply). Default to richness, not brevity.
 - Zero emojis (dead corporate energy) OR emojis at the start of sentences (guru-clown energy)
 - Stacked emojis, hype emojis (🔥 💯 🚀 ⚡)
-- Hype language ("amazing opportunity", "transform your life")
+- Hype language ("amazing opportunity", "transform your life", "huge reach")
+- False scarcity ("only X spots left") unless we genuinely have only X spots
+- Inventing named clients we haven't approved (e.g. listing famous people Marco has worked with by name unless they're documented in `context/01_business_context.md`)
 - Asking 4+ questions in the first message
 - Pricing mentioned in any form
-- "Sir Marco" / "the book" / "international bestseller", wrong campaign
+- "Sir Marco" / "the book" / "international bestseller" / "2 million followers", that's the OTHER campaign and is forbidden here
 - Greeting glued to the body with no blank line in between

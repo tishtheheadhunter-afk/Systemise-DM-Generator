@@ -12,6 +12,7 @@ Author: Tish Dave (tishtheheadhunter-afk)
 
 import os
 import json
+import re
 import uuid
 from pathlib import Path
 from datetime import datetime
@@ -275,11 +276,12 @@ def generate_responses(
         # Parse JSON
         results = json.loads(text)
         
-        # Strip any em dashes that slipped through (belt and braces)
+        # Clean each option: strip em dashes and normalise paragraph spacing
         for r in results:
             if "text" in r:
                 r["text"] = strip_em_dashes(r["text"])
-        
+                r["text"] = normalize_message_spacing(r["text"])
+
         return results, None
     
     except json.JSONDecodeError as e:
@@ -298,6 +300,36 @@ def strip_em_dashes(text: str) -> str:
     ]
     for old, new in replacements:
         text = text.replace(old, new)
+    return text
+
+
+def normalize_message_spacing(text: str) -> str:
+    """Fix paragraph spacing in generated messages.
+
+    Two corrections:
+    1. Insert a blank line between a short opening greeting and the next
+       paragraph if the model glued them together with a single newline.
+       (Streamlit renders with white-space: pre-wrap, so single newlines
+       look squished.)
+    2. Collapse runs of 3+ consecutive newlines down to exactly 2, so the
+       message has consistent paragraph spacing throughout.
+    """
+    if not text:
+        return text
+
+    text = text.rstrip()
+
+    # Collapse 3+ consecutive newlines to exactly 2
+    text = re.sub(r"\n{3,}", "\n\n", text)
+
+    # If the first line is short (likely a greeting) and the second line is
+    # non-empty (no blank line between them), insert a blank line.
+    lines = text.split("\n")
+    if len(lines) >= 2:
+        first = lines[0]
+        if len(first.strip()) < 80 and lines[1].strip() != "":
+            text = first + "\n\n" + "\n".join(lines[1:]).lstrip("\n")
+
     return text
 
 
