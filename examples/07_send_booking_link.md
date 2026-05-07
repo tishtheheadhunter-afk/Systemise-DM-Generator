@@ -56,6 +56,6 @@
 
 - Restating the offer or the programme value before sending the link, they've heard it
 - Adding pressure ("the slots fill up fast", only true if it actually is true; never invent scarcity)
-- Multiple emojis or hype language
+- Hype emojis 🔥 💯 🚀 or stacked emojis. 1-2 grounded emojis (😊 ✅ 🙏) at the end of the message is the standard.
 - Asking them to confirm anything before they've booked
 - Sending the wrong link (the only correct booking link is the systemiseandselldiscoverycall one, never substitute it)

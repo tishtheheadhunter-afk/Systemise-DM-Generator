@@ -26,7 +26,7 @@ This is the heaviest-lifting response type in the whole bot. Get it right and we
 
 ### Option A (Direct pivot, no pressure)
 
-> Totally hear you [name]. Don't want to push you into something the timing's wrong on.
+> Totally hear you [name]. Don't want to push you into something the timing's wrong on 🙂
 >
 > One thing worth knowing: we run a free community called The Closing Room. Same first two-thirds of the training, daily live sessions with me Mon-Fri, no charge, no upsell inside. People use it to audition the methodology before any paid commitment.
 >
@@ -36,7 +36,7 @@ This is the heaviest-lifting response type in the whole bot. Get it right and we
 
 ### Option B (Reframe the wait)
 
-> No worries [name], honest answer is the timing has to be right.
+> No worries [name], honest answer is the timing has to be right 🙂
 >
 > While you're saving up, you could come into our free community, The Closing Room. Daily lives with me, the actual training course (free), and you can take your time working through the foundations before any paid step. Most people spend 30-60 days in there before they're ready for a call.
 >
@@ -46,7 +46,7 @@ This is the heaviest-lifting response type in the whole bot. Get it right and we
 
 ### Option C (Acknowledge + offer + exit)
 
-> Got it [name], I respect that.
+> Got it [name], I respect that 🙂
 >
 > If you want to start now without spending anything, we have a free Skool community where the course content is open and I run daily lives Mon to Fri. No upsell inside, no pressure to upgrade, you can take your time and decide later.
 >
@@ -73,7 +73,7 @@ This is the heaviest-lifting response type in the whole bot. Get it right and we
 
 ### Option A (Empathy first, then offer)
 
-> Sorry to hear that [name], that's a rough timing.
+> Sorry to hear that [name], that's a rough timing 🙏
 >
 > Honestly, given where you're at, the right move probably isn't a paid programme right now. We have a free community, The Closing Room, with the full course content, daily lives with me Mon to Fri, no charge, no upsell. You could use the next few weeks to actually skill up while you figure things out.
 >
@@ -83,7 +83,7 @@ This is the heaviest-lifting response type in the whole bot. Get it right and we
 
 ### Option B (Practical pivot)
 
-> Tough timing [name], sorry to hear it.
+> Tough timing [name], sorry to hear it 🙏
 >
 > Practical thought: while you're sorting things out, the free community might actually be the most useful thing for you right now. Same training course free inside, daily lives with me, full Hiring Partners reference. You'd be skilling up so when the timing is right, you're not starting from zero.
 >
@@ -93,7 +93,7 @@ This is the heaviest-lifting response type in the whole bot. Get it right and we
 
 ### Option C (Lighter, less heavy on the empathy)
 
-> Got it [name], no worries.
+> Got it [name], no worries 🙂
 >
 > If you want to keep moving without any spend, the free community has the course and daily lives. Use the time productively, decide on next steps later.
 >
@@ -118,7 +118,7 @@ This is the heaviest-lifting response type in the whole bot. Get it right and we
 
 ### Option A (Bridge to Skool as the saving period activity)
 
-> Makes sense [name], smart not to stretch.
+> Makes sense [name], smart not to stretch 🙂
 >
 > While you're saving, come into the free community, The Closing Room. Same course content open, daily lives with me, full Hiring Partners reference inside. The people who do best in our paid programme are usually the ones who came through the free community first and arrived with the foundations already solid.
 >
@@ -128,7 +128,7 @@ This is the heaviest-lifting response type in the whole bot. Get it right and we
 
 ### Option B (Reframe the saving period)
 
-> Respect that [name].
+> Respect that [name] 🙂
 >
 > One thing to consider: the saving period is a great time to actually build the skill, not just save the money. The free community has the full course and daily lives, no charge. By the time you're ready to invest, you'd already be ahead of where most people start.
 >
@@ -138,7 +138,7 @@ This is the heaviest-lifting response type in the whole bot. Get it right and we
 
 ### Option C (Skool as the strategic next step)
 
-> Smart move [name].
+> Smart move [name] 🙂
 >
 > If you want to use the time productively, our free community has the course and daily lives with me. Skill up while you save, then when the timing's right, the conversation's a much shorter one because you'll already know if the methodology clicks for you.
 >

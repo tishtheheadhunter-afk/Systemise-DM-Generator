@@ -58,11 +58,11 @@
 
 ### Option
 
-> Yeah we do [name].
+> Yeah we do [name] 🙂
 >
 > https://community.systemiseandsell.com/join
 >
-> Free Skool community, same first two-thirds of the training course inside, daily lives with me Mon to Fri, no upsell, no pressure. Most people use it to audition the methodology before any paid commitment.
+> Free Skool community, same first two-thirds of the training course inside, daily lives with me Mon to Fri, no upsell, no pressure ✅ most people use it to audition the methodology before any paid commitment.
 >
 > Take a look. If it clicks, you'll know.
 
@@ -81,4 +81,4 @@
 - Adding pressure ("but the paid programme is where the real magic happens")
 - Implying Skool is "just a taste" of the paid programme, wrong framing; it's its own legitimate path
 - Sending the wrong link (the only correct Skool URL is `https://community.systemiseandsell.com/join`)
-- Multiple emojis or hype language
+- Hype emojis 🔥 💯 🚀 or stacked emojis. 1-2 grounded emojis (😊 🙂 ✅) is the standard.

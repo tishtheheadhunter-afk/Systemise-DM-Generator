@@ -15,19 +15,19 @@
 
 ### Option A (Reference + qualify)
 
-> Hey [name], saw you liked the inconsistent closing post.
+> Hey [name], saw you liked the inconsistent closing post 👋
 >
-> Quick question, are you in the inconsistent closing camp yourself, or is it more theoretical for you?
+> Quick question, are you in the inconsistent closing camp yourself, or is it more theoretical for you? 🎯
 >
-> Reason I ask: I work with both, but the conversation looks different depending on which one. Wanted to know which lens to come from before I sent anything.
+> Reason I ask: I work with both, but the conversation looks different depending on which one. Wanted to know which lens to come from before I sent anything 😊
 
 ### Option B (Lead with insight)
 
-> Hey [name], saw you engaged with the post on inconsistent closing.
+> Hey [name], saw you engaged with the post on inconsistent closing 👋
 >
-> The thing most people miss in that post: the inconsistency isn't random. It's a feedback loop, bad reps create bad habits, bad habits create bad reps. Breaking the loop needs structured feedback, which most closers never get.
+> The thing most people miss in that post 💡 the inconsistency isn't random. It's a feedback loop, bad reps create bad habits, bad habits create bad reps. Breaking the loop needs structured feedback, which most closers never get.
 >
-> Curious where you sit with all of this. Closing now and frustrated, or planning to start?
+> Curious where you sit with all of this. Closing now and frustrated, or planning to start? 😊
 
 **Notes on what works:**
 
@@ -46,19 +46,19 @@
 
 ### Option A (Reference Marco's story)
 
-> Hey [name], saw you liked the $200M post.
+> Hey [name], saw you liked the $200M post 👋
 >
-> Out of curiosity, what made that one resonate? The career arc, the numbers, the systems angle?
+> Out of curiosity, what made that one resonate? The career arc, the numbers, the systems angle? 🎯
 >
-> Knowing what hooked you tells me what to send you, if anything.
+> Knowing what hooked you tells me what to send you, if anything 😊
 
 ### Option B (Skip to qualifying)
 
-> Hey [name].
+> Hey [name] 👋
 >
 > Saw you liked the $200M post. Quick question: are you in sales already, or thinking about getting into it?
 >
-> Different conversation depending on the answer, wanted to ask before sending anything generic.
+> Different conversation depending on the answer, wanted to ask before sending anything generic 😊
 
 **Notes on what works:**
 
@@ -83,3 +83,4 @@
 - Multiple questions stacked
 - Pitching the programme in the first message
 - "Would love to hop on a call", way too fast, prospect hasn't even replied yet
+- Zero emojis (dead) or hype emojis 🔥 💯 🚀 (guru). 1-2 per message is the standard.

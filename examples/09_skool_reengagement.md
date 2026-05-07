@@ -17,23 +17,23 @@ This is modelled directly on Tiago's Template 6, which has booked a lot of calls
 
 ### Option A (Template 6 style, classic)
 
-> Hey [name], saw you've worked through the first three modules, that's the foundations sorted.
+> Hey [name], saw you've worked through the first three modules ✅ that's the foundations sorted.
 >
-> Quick question: are you closing already, or working towards it?
+> Quick question: are you closing already, or working towards it? 🎯
 >
 > Reason I ask: we run a separate placement programme for people who want to be working as a high-ticket closer for one of our partner companies. Guaranteed interview opportunities, 16-module curriculum, weekly live training with me. It's not for everyone, specifically for people ready to commit.
 >
-> If that sounds like you, happy to set up a call with our team to walk you through it. If not, no worries, keep working through the course.
+> If that sounds like you, happy to set up a call with our team to walk you through it. If not, no worries, keep working through the course 😊
 
 ### Option B (Slightly warmer, references Hiring Partners pages)
 
-> Hey [name], noticed you've made it through the first three modules and had a look at the Hiring Partners course. Foundations are solid and you're already curious about the placement side.
+> Hey [name], noticed you've made it through the first three modules and had a look at the Hiring Partners course ✅ foundations are solid and you're already curious about the placement side.
 >
-> Quick question, are you closing already, or building up to it?
+> Quick question, are you closing already, or building up to it? 🎯
 >
 > The reason I ask: there's a separate paid programme that takes you from foundations to placed with one of our vetted partner companies. 16 modules, weekly live training with me, guaranteed interview opportunities. It's a real commitment though, so it's only for people genuinely ready.
 >
-> If you want to chat about whether it'd fit, happy to set up a call with our team. If not, no worries, keep going through the course.
+> If you want to chat about whether it'd fit, happy to set up a call with our team. If not, no worries, keep going through the course 😊
 
 **Notes on what works:**
 
@@ -52,23 +52,23 @@ This is modelled directly on Tiago's Template 6, which has booked a lot of calls
 
 ### Option A (Acknowledge engagement level)
 
-> Hey [name], you've been showing up, Modules 1-5 done, posting in chat regularly, on most of the lives. That's the engagement profile we usually only see on people who are about to take the next step.
+> Hey [name], you've been showing up, Modules 1-5 done, posting in chat regularly, on most of the lives ✅ that's the engagement profile we usually only see on people who are about to take the next step.
 >
-> Quick question: are you in the community to skill up for your own offer, or are you eyeing the placement track?
+> Quick question: are you in the community to skill up for your own offer, or are you eyeing the placement track? 🎯
 >
 > The reason I ask is they're different conversations. If it's the placement track, we have a paid programme that gets you from where you are now to placed with one of our vetted partners. Worth a call with our team if that's where your head's at.
 >
-> If it's for your own offer instead, no problem, keep working through and let me know if you have specific questions.
+> If it's for your own offer instead, no problem, keep working through and let me know if you have specific questions 😊
 
 ### Option B (Direct + outcome-focused)
 
-> Hey [name], you've been on most of the lives and you're 5 modules deep. That's serious engagement.
+> Hey [name], you've been on most of the lives and you're 5 modules deep ✅ that's serious engagement.
 >
-> Honest question: what's the actual goal here? Skilling up for your own thing, or building towards being placed as a closer for one of our partners?
+> Honest question: what's the actual goal here? Skilling up for your own thing, or building towards being placed as a closer for one of our partners? 🎯
 >
 > If it's placement, we have a paid programme that takes care of that, interviews guaranteed once you certify, 16 modules, weekly live with me. Different commitment than the free community. If you want to talk through whether it's the right fit, I can set up a call.
 >
-> If it's your own offer, all good, keep going.
+> If it's your own offer, all good, keep going 😊
 
 **Notes on what works:**
 

@@ -15,17 +15,17 @@
 
 ### Option A (Public-facing reframe)
 
-> Your friend isn't a "natural." They've just had more reps than you. Every "natural" closer I know was terrible on their first 50 calls.
+> Your friend isn't a "natural." They've just had more reps than you. Every "natural" closer I know was terrible on their first 50 calls 💡
 >
-> Sales is a skill. The reason it feels innate in some people is that they did the reps before they realised they were doing them. You can build the same thing, it just looks like training instead of accident.
+> Sales is a skill. The reason it feels innate in some people is that they did the reps before they realised they were doing them. You can build the same thing, it just looks like training instead of accident ✅
 
 ### Option B (Reframe + soft DM CTA)
 
-> Most "naturals" had a parent who sold, a first job that forced them onto the phone, or 3 years of door-to-door before anyone noticed. The reps were invisible.
+> Most "naturals" had a parent who sold, a first job that forced them onto the phone, or 3 years of door-to-door before anyone noticed. The reps were invisible 💡
 >
 > The skill is identical. The structure is teachable. Your friend just got a head start.
 >
-> If you want the breakdown of what the actual structure is, DM me CLOSER and I'll send the curriculum overview.
+> If you want the breakdown of what the actual structure is, DM me CLOSER and I'll send the curriculum overview 💬
 
 **Notes on what works:**
 
@@ -44,19 +44,19 @@
 
 ### Option A (Direct, addresses the skepticism)
 
-> Fair question, and I'd be skeptical too in your position.
+> Fair question, and I'd be skeptical too in your position 👌
 >
-> Most "closer courses" are video libraries. You watch, you don't apply, nothing changes. We run weekly live training with me where we actually unpack scenarios, real roleplays with feedback, call breakdowns on actual campaigns, and guaranteed interview opportunities once you certify. It's not training plus hope. It's training plus access.
+> Most "closer courses" are video libraries. You watch, you don't apply, nothing changes. We run weekly live training with me where we actually unpack scenarios, real roleplays with feedback, call breakdowns on actual campaigns, and guaranteed interview opportunities once you certify ✅
 >
-> If you've already done the courses and you're still not placed, the issue isn't more theory. It's getting structured reps and getting in front of hiring partners.
+> It's not training plus hope. It's training plus access. If you've already done the courses and you're still not placed, the issue isn't more theory. It's getting structured reps and getting in front of hiring partners.
 
 ### Option B (Validate + redirect to private convo)
 
-> Honest answer, I get it. The closer training space is full of "buy a course and figure it out." That doesn't get anyone placed.
+> Honest answer, I get it 👌 the closer training space is full of "buy a course and figure it out." That doesn't get anyone placed.
 >
-> The difference here is the structure: weekly live training, real roleplays, call breakdowns, and guaranteed interviews with vetted partners on completion. It's training plus access, not training alone.
+> The difference here is the structure: weekly live training, real roleplays, call breakdowns, and guaranteed interviews with vetted partners on completion ✅ training plus access, not training alone.
 >
-> If you want me to walk you through specifically why you didn't get placed from the previous courses and whether this would actually solve it, DM me CLOSER.
+> If you want me to walk you through specifically why you didn't get placed from the previous courses and whether this would actually solve it, DM me CLOSER 💬
 
 **Notes on what works:**
 
@@ -82,4 +82,4 @@
 - Defensive responses to skepticism, looks weak
 - Long monologues, comment replies should be tight (2-3 short paragraphs max)
 - Multiple DM keywords, pick one (CLOSER)
-- Hype or emoji stacks, not Marco voice
+- Hype emojis (🔥 💯 🚀) or emoji stacks, not Marco voice. 1-2 tasteful emojis (👌 💡 ✅ 💬) is the standard.

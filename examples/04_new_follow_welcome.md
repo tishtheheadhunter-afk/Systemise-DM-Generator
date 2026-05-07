@@ -23,11 +23,11 @@
 
 ### Option B (Light + low pressure)
 
-> Hey [name], thanks for following.
+> Hey [name], thanks for following 🙂
 >
 > Genuine question, what made you tap follow? Working in sales already, looking to break in, or just here for the content?
 >
-> Whatever the answer, no pitch. Just trying to understand who's in the audience.
+> Whatever the answer, no pitch. Just trying to understand who's in the audience 😊
 
 **Notes on what works:**
 
@@ -35,7 +35,7 @@
 - Option A briefly mentions Marco's content range, useful for prospects who don't know what they're following yet
 - Option B explicitly says "no pitch", disarms the auto-defensive response that "another DM means another sales pitch"
 - Both end with a low-stakes question, easy to reply to
-- One emoji max, used sparingly
+- 1-2 tasteful emojis per message (👋 🙂 😊 💡), placed at end of sentences, never stacked
 
 ---
 
@@ -54,11 +54,11 @@
 
 ### Option B (Reframe and ask)
 
-> Hey [name].
+> Hey [name] 👋
 >
-> The "inconsistent closing" thing is the most common pain I see. Most people think the issue is them, usually it's the lack of structure.
+> The "inconsistent closing" thing is the most common pain I see 💡 most people think the issue is them, usually it's the lack of structure.
 >
-> Genuine question: are you closing already and trying to fix the swings, or trying to break in for the first time?
+> Genuine question: are you closing already and trying to fix the swings, or trying to break in for the first time? 😊
 
 **Notes on what works:**
 
@@ -82,5 +82,6 @@
 - "Welcome to the family!", cult-y
 - Promotional offers in the first message, kills the relationship
 - Long bios of who Marco is, they followed, they don't need a CV
-- Emoji stacks
+- Emoji stacks or hype emojis (🔥 💯 🚀)
 - Multiple questions in one message
+- Greeting glued to the body without a blank line

@@ -24,27 +24,27 @@ For money/investment objections specifically, use Skool Fallback (file 08) inste
 
 ### Option A (Validate + name the gap)
 
-> Fair question [name], and honestly, the skepticism is the right instinct. Most closer training programmes are video libraries, you watch, you don't apply, nothing changes.
+> Fair question [name], and honestly, the skepticism is the right instinct 👌 most closer training programmes are video libraries, you watch, you don't apply, nothing changes.
 >
-> The differentiation here is structural: weekly live training with me where we actually unpack scenarios, real roleplays with feedback, call breakdowns on real campaigns, and guaranteed interview opportunities once you certify. It's not training plus hope. It's training plus access.
+> The differentiation here is structural: weekly live training with me where we actually unpack scenarios, real roleplays with feedback, call breakdowns on real campaigns, and guaranteed interview opportunities once you certify ✅ it's not training plus hope. It's training plus access.
 >
-> Worth a call to dig into what specifically didn't work in the previous ones and whether this would actually solve it. Mind if I send the link?
+> Worth a call to dig into what specifically didn't work in the previous ones and whether this would actually solve it. Mind if I send the link? 😊
 
 ### Option B (Direct comparison)
 
-> Fair concern [name].
+> Fair concern [name] 👌
 >
 > Honest answer: most "closer training" is theory, no application, no path to a real campaign. People finish, feel skilled-up, then realise they've got nowhere to apply it.
 >
-> The structural difference: I run live training weekly, we do real roleplays with feedback, and there are guaranteed interview opportunities at the end with vetted partners. It's the application and the access that the other programmes were missing.
+> The structural difference: I run live training weekly, we do real roleplays with feedback, and there are guaranteed interview opportunities at the end with vetted partners ✅ it's the application and the access that the other programmes were missing.
 >
-> Worth getting on a call so you can grill us on the specifics and figure out if it's actually different. Want me to set it up?
+> Worth getting on a call so you can grill us on the specifics and figure out if it's actually different. Want me to set it up? 😊
 
 ### Option C (Reframe + qualify)
 
-> [Name], the skepticism is fair. I'd ask the same question.
+> [Name], the skepticism is fair 👌 I'd ask the same question.
 >
-> Quick question before I send a long answer: when the previous programmes failed for you, was it because the training was bad, or because there was no real path to a campaign at the end?
+> Quick question before I send a long answer: when the previous programmes failed for you, was it because the training was bad, or because there was no real path to a campaign at the end? 🎯
 >
 > Knowing that tells me whether this would actually solve your problem or whether you'd be better off elsewhere.
 
@@ -65,31 +65,31 @@ For money/investment objections specifically, use Skool Fallback (file 08) inste
 
 ### Option A (Direct, evidence-led)
 
-> Fair question [name], and frankly the right one to ask.
+> Fair question [name], and frankly the right one to ask 👌
 >
 > Two things that distinguish actual programmes from scams: who's running it, and what's the verifiable track record. I've personally closed over $200M in 37 years of sales, run live training every week, and we have placed closers earning real commissions on real campaigns right now. None of that is hidden, easy to verify.
 >
-> The other thing: we don't sell the programme in DMs. The price isn't even listed publicly. We do a real consultation call where you can grill us on every detail before any commitment is made. That's how it should work.
+> The other thing: we don't sell the programme in DMs. The price isn't even listed publicly. We do a real consultation call where you can grill us on every detail before any commitment is made ✅ that's how it should work.
 >
-> Want me to set up the call?
+> Want me to set up the call? 😊
 
 ### Option B (Disarm + redirect)
 
-> Honestly [name], if I were you I'd ask the same. The space is full of garbage.
+> Honestly [name], if I were you I'd ask the same 👌 the space is full of garbage.
 >
 > Quick test for any programme: ask them to verify the trainer's actual sales history, ask to speak to placed students, ask what happens if you don't get placed. If they can't answer those clearly, walk.
 >
-> We can answer all three. Marco has 37 years of personal sales, $200M+ in personal closes. We have placed closers on active campaigns. And if you complete the programme and the requirements and don't get placed, we provide ongoing 1-on-1 coaching at no extra cost until you do.
+> We can answer all three. Marco has 37 years of personal sales, $200M+ in personal closes. We have placed closers on active campaigns. And if you complete the programme and the requirements and don't get placed, we provide ongoing 1-on-1 coaching at no extra cost until you do ✅
 >
-> The call's where we get into all of that. Mind if I send the link?
+> The call's where we get into all of that. Mind if I send the link? 😊
 
 ### Option C (Acknowledge + invite scrutiny)
 
-> Fair point [name]. The space has earned its bad reputation.
+> Fair point [name] 👌 the space has earned its bad reputation.
 >
 > Best thing I can offer: get on the call, ask the team every difficult question you've got. They'll walk you through Marco's track record, the structure, the placement guarantee, and the things we don't do that other programmes do. If anything feels off, you walk away.
 >
-> Worth booking?
+> Worth booking? 😊
 
 **Notes on what works:**
 
@@ -108,9 +108,9 @@ For money/investment objections specifically, use Skool Fallback (file 08) inste
 
 ### Option A (No pressure, frame the call as low-stakes)
 
-> Of course [name], take the time you need.
+> Of course [name], take the time you need 🙂
 >
-> One thing to consider though, the call itself isn't a commitment. It's a conversation with the team where you ask the questions, get the specifics, and decide afterwards. The thinking is easier when you have the actual information instead of guessing from outside.
+> One thing to consider though 💡 the call itself isn't a commitment. It's a conversation with the team where you ask the questions, get the specifics, and decide afterwards. The thinking is easier when you have the actual information instead of guessing from outside.
 >
 > Up to you completely. If you'd rather book first and decide after the call, here's the link: https://api.leadconnectorhq.com/widget/bookings/systemiseandselldiscoverycall
 >
@@ -118,15 +118,15 @@ For money/investment objections specifically, use Skool Fallback (file 08) inste
 
 ### Option B (Reframe what they're thinking about)
 
-> No pressure [name], take your time.
+> No pressure [name], take your time 🙂
 >
-> Quick thought: if what you're trying to figure out is whether the programme would work for your specific situation, that's exactly what the call is for. You'd come out of it knowing the answer, not still guessing.
+> Quick thought 💡 if what you're trying to figure out is whether the programme would work for your specific situation, that's exactly what the call is for. You'd come out of it knowing the answer, not still guessing.
 >
 > But if you'd rather sit with it first, all good. The link's here when you're ready: https://api.leadconnectorhq.com/widget/bookings/systemiseandselldiscoverycall
 
 ### Option C (Direct + light)
 
-> Fair enough [name]. Take the time.
+> Fair enough [name], take the time 🙂
 >
 > Whenever you're ready: https://api.leadconnectorhq.com/widget/bookings/systemiseandselldiscoverycall
 >

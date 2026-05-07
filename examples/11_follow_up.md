@@ -32,7 +32,7 @@ These match the Sir Marco template rules exactly. Cadence is consistent. The voi
 
 ### Follow-up 1 (24h after first message)
 
-> Still of interest [name]?
+> Still of interest [name]? 🙂
 
 ### Follow-up 2 (24h later)
 
@@ -44,7 +44,7 @@ These match the Sir Marco template rules exactly. Cadence is consistent. The voi
 
 ### Follow-up 4 (final, 24h later)
 
-> Last nudge from me [name]. If now's not the time, no worries, door's always open if you change your mind.
+> Last nudge from me [name]. If now's not the time, no worries, door's always open if you change your mind 🙏
 
 **Notes on what works:**
 
@@ -61,19 +61,19 @@ These are warmer prospects who got into a conversation and then went quiet mid-a
 
 ### Follow-up 1 (12h after their last reply)
 
-> Hey [name], following up on our convo, still keen to dig into this?
+> Hey [name], following up on our convo, still keen to dig into this? 😊
 
 ### Follow-up 2 (12h later)
 
-> [Name], if it's not the right time just let me know, no problem.
+> [Name], if it's not the right time just let me know, no problem 🙂
 
 ### Follow-up 3 (12h later)
 
-> Hey, just checking in [name]. Want to keep going or pause?
+> Hey, just checking in [name] 👋 want to keep going or pause?
 
 ### Follow-up 4 (12h later)
 
-> [Name], life can get busy. Whenever you're ready to pick this back up, hit me back.
+> [Name], life can get busy 🙂 whenever you're ready to pick this back up, hit me back.
 
 ### Follow-up 5 (12h later, getting lighter)
 
@@ -81,7 +81,7 @@ These are warmer prospects who got into a conversation and then went quiet mid-a
 
 ### Follow-up 6 (final, 12h later)
 
-> Last one from me [name], door's open whenever, no pressure either way.
+> Last one from me [name], door's open whenever, no pressure either way 🙏
 
 **Notes on what works:**
 
@@ -98,15 +98,15 @@ This is where the Sir Marco template gets more persistent, every 6 hours until t
 
 ### Follow-up 1 (6h after link sent)
 
-> Hey [name], did the link come through okay?
+> Hey [name], did the link come through okay? 🙂
 
 ### Follow-up 2 (6h later)
 
-> [Name], anything blocking you from picking a slot?
+> [Name], anything blocking you from picking a slot? 🙂
 
 ### Follow-up 3 (6h later)
 
-> Hey [name], if there's a specific time that works, let me know and I can ask the team to make it work.
+> Hey [name], if there's a specific time that works, let me know and I can ask the team to make it work 😊
 
 ### Follow-up 4 (6h later)
 
@@ -114,21 +114,21 @@ This is where the Sir Marco template gets more persistent, every 6 hours until t
 
 ### Follow-up 5 (6h later)
 
-> [Name], I know things get busy, happy to send the link again if you've lost it: https://api.leadconnectorhq.com/widget/bookings/systemiseandselldiscoverycall
+> [Name], I know things get busy, happy to send the link again if you've lost it 🙂 https://api.leadconnectorhq.com/widget/bookings/systemiseandselldiscoverycall
 
 ### Follow-up 6 (6h later)
 
-> Hey [name]?
+> Hey [name]? 🙂
 
 ### Follow-up 7+ (continue every 6h)
 
 Continue with light, varied nudges. Examples:
 
-> Quick check-in [name].
+> Quick check-in [name] 🙂
 
-> [Name], all good your end?
+> [Name], all good your end? 🙂
 
-> Hey [name], any update?
+> Hey [name], any update? 🙂
 
 Until they book, block, or explicitly ask to stop.
 
@@ -148,15 +148,15 @@ Until they book, block, or explicitly ask to stop.
 
 If the prospect went into Skool and you want to follow up later (4-6 weeks):
 
-> Hey [name], saw you've been in the community for a few weeks now. How's it going? Anything specific I can help with?
+> Hey [name], saw you've been in the community for a few weeks now 👋 how's it going? Anything specific I can help with? 😊
 
 ### After they said "let me think about it" (light, 3-5 days later)
 
-> Hey [name], no pressure, just checking if anything came up from your thinking that I can help with.
+> Hey [name], no pressure, just checking if anything came up from your thinking that I can help with 🙂
 
 ### After they declined entirely (one final check-in, 30 days later)
 
-> Hey [name], been a while. Any change in where you're at? If not, all good. If yes, you know where to find me.
+> Hey [name], been a while 👋 any change in where you're at? If not, all good. If yes, you know where to find me.
 
 ---
 
@@ -165,7 +165,7 @@ If the prospect went into Skool and you want to follow up later (4-6 weeks):
 1. **Short.** Follow-ups are not the place for monologues.
 2. **Always offer the easy out.** "If it's not the right time, no problem."
 3. **Never guilt or accuse.** "I haven't heard back" without the negative spin.
-4. **Light emoji use.** Maximum one per follow-up, often zero.
+4. **One soft emoji per follow-up.** 🙂 / 😊 / 🙏 / 👋 are the workhorses. Never stacked. Follow-ups stay light.
 5. **Resend the link if they've lost it.** Practical helpfulness over passive-aggression.
 
 ## What to avoid
@@ -175,5 +175,5 @@ If the prospect went into Skool and you want to follow up later (4-6 weeks):
 - "Did you see my last message?", passive-aggressive
 - Long re-pitches of the offer, they remember
 - "Last chance!" / "Spots are filling!", false urgency
-- Multiple emojis or "👋👋👋", desperate
+- Stacked emojis ("👋👋👋"), desperate. Hype emojis (🔥 💯 🚀), wrong voice.
 - More than 4 / 6 / continuous follow-ups in their respective stages without a stop signal
