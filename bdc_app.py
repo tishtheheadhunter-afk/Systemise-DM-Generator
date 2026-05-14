@@ -560,8 +560,13 @@ def page_quick_generate():
             return
         
         st.session_state["quick_results"] = results
-        st.session_state["quick_response_type"] = response_type
-    
+        # Note: do NOT write st.session_state["quick_response_type"] here.
+        # That key is owned by the response-type picker widget (see
+        # render_response_type_picker, key=f"{key_prefix}_response_type").
+        # Assigning to a widget-bound key after the widget has rendered
+        # raises StreamlitAPIException. The widget already holds the
+        # current selection in session state, and nothing else reads it.
+
     if "quick_results" in st.session_state and st.session_state.get("quick_results"):
         st.divider()
         st.markdown(f"#### Generated ({len(st.session_state['quick_results'])} option{'s' if len(st.session_state['quick_results']) > 1 else ''})")
